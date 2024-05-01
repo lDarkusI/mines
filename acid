@@ -1,0 +1,378 @@
+local args = {
+    [1] = Vector3.new(-29.33013916015625, 32.092933654785156, 55.152183532714844),
+    [2] = Vector3.new(-42.75432205200195, 22, 69.09425354003906)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-72.5859603881836, 35.273563385009766, 35.38536834716797),
+    [2] = Vector3.new(-65.34262084960938, 23.228166580200195, 46.72786331176758)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-37.83893585205078, 10.410675048828125, 26.295743942260742),
+    [2] = Vector3.new(-58.3240966796875, 1, 41.92524337768555)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-18.819995880126953, 19.556076049804688, 39.36373519897461),
+    [2] = Vector3.new(-46.0921516418457, 1, 42.769615173339844)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-14.209397315979004, 17.6021728515625, 53.82117462158203),
+    [2] = Vector3.new(-34.89458465576172, 1, 38.902259826660156)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-74.03265380859375, 21.120670318603516, 14.928293228149414),
+    [2] = Vector3.new(-71.87301635742188, 1, 41.44491195678711)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-73.2494888305664, 30.55306625366211, 4.853699684143066),
+    [2] = Vector3.new(-82.29859161376953, 1, 37.246726989746094)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-59.93537139892578, 25.530025482177734, 9.286462783813477),
+    [2] = Vector3.new(-68.67210388183594, 1, 27.44078826904297)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-45.11099624633789, 34.79823684692383, 2.65274977684021),
+    [2] = Vector3.new(-56.785003662109375, 1, 22.555225372314453)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-5.985309600830078, 45.35209274291992, 68.46017456054688),
+    [2] = Vector3.new(-30.80625343322754, 22, 68.123779296875)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-12.678038597106934, 35.97539138793945, 34.97364044189453),
+    [2] = Vector3.new(-14.44814395904541, 1, 52.1936149597168)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-16.913280487060547, 35.87150192260742, 9.552117347717285),
+    [2] = Vector3.new(-32.55546951293945, 1, 21.55051040649414)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-39.997440338134766, 31.797529220581055, 1.0972847938537598),
+    [2] = Vector3.new(-51.715660095214844, 1, 10.946823120117188)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(9.75072193145752, 42.175743103027344, 61.115474700927734),
+    [2] = Vector3.new(-19.32425308227539, 22, 69.32738494873047)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(1.8436686992645264, 39.75844955444336, 37.03958511352539),
+    [2] = Vector3.new(-36.53193283081055, 1, 58.05157470703125)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-13.990644454956055, 36.00096130371094, 84.51890563964844),
+    [2] = Vector3.new(-19.725812911987305, 1, 70.32105255126953)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(19.22410011291504, 42.09550857543945, 20.568523406982422),
+    [2] = Vector3.new(26.62017059326172, 1, 38.575809478759766)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-6.332594394683838, 37.03671646118164, 10.743720054626465),
+    [2] = Vector3.new(8.992621421813965, 1, 41.69485092163086)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(0.11314254999160767, 48.37367248535156, 35.723289489746094),
+    [2] = Vector3.new(21.665916442871094, 1, 31.340465545654297)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(16.156108856201172, 45.257930755615234, 2.3358137607574463),
+    [2] = Vector3.new(21.955047607421875, 1, 19.21273422241211)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(23.92705726623535, 31.098003387451172, 53.93709182739258),
+    [2] = Vector3.new(17.1192569732666, 1, 52.284088134765625)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-8.36004638671875, 41.193504333496094, 35.32859420776367),
+    [2] = Vector3.new(2.8118162155151367, 1, 38.45640563964844)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-9.539079666137695, 38.08053207397461, 8.288738250732422),
+    [2] = Vector3.new(6.905460357666016, 1, 17.912784576416016)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(43.38541793823242, 34.89108657836914, 52.90467071533203),
+    [2] = Vector3.new(35.04652404785156, 1, 52.72181701660156)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-31.954837799072266, 41.628990173339844, 55.70030975341797),
+    [2] = Vector3.new(-43.39030456542969, 22, 69.23392486572266)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-23.91976547241211, 39.51798629760742, 38.84916687011719),
+    [2] = Vector3.new(-19.297128677368164, 1, 40.261474609375)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-9.52358627319336, 56.7148323059082, 7.251504421234131),
+    [2] = Vector3.new(-14.524406433105469, 1, 25.878690719604492)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-28.714244842529297, 33.18515396118164, -0.8222109079360962),
+    [2] = Vector3.new(-29.413955688476562, 1, 5.812992095947266)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-2.2421140670776367, 49.26950454711914, 9.40623950958252),
+    [2] = Vector3.new(-5.722736835479736, 1, 8.4423828125)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-69.18248748779297, 43.54534912109375, 14.30235481262207),
+    [2] = Vector3.new(-75.51744079589844, 3.626093864440918, 14.646926879882812)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(32.347347259521484, 34.900962829589844, 22.276424407958984),
+    [2] = Vector3.new(42.45498275756836, 1, 27.041980743408203)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(44.316898345947266, 40.891597747802734, 66.4036636352539),
+    [2] = Vector3.new(53.29897689819336, 22, 69.03334045410156)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(39.709835052490234, 54.19512176513672, 69.46646118164062),
+    [2] = Vector3.new(40.55889892578125, 22, 67.87564849853516)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(23.96912384033203, 57.45659637451172, 71.4480209350586),
+    [2] = Vector3.new(28.016510009765625, 22, 67.80142974853516)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(13.45828628540039, 50.17233657836914, 67.81208038330078),
+    [2] = Vector3.new(16.797908782958984, 22, 67.6944808959961)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(2.5866756439208984, 52.614234924316406, 69.4425048828125),
+    [2] = Vector3.new(5.378467559814453, 22, 67.70667266845703)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-6.85532283782959, 45.39109802246094, 68.00308990478516),
+    [2] = Vector3.new(-3.0806868076324463, 22, 68.5732650756836)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-21.859880447387695, 64.68257141113281, 73.7546615600586),
+    [2] = Vector3.new(-15.4642333984375, 22, 67.87345886230469)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(50.49929428100586, 44.52402114868164, 65.40218353271484),
+    [2] = Vector3.new(57.34257507324219, 22, 74.82738494873047)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(52.63821792602539, 50.76924514770508, 51.81350326538086),
+    [2] = Vector3.new(53.509620666503906, 22, 58.06239700317383)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-29.84203338623047, 18.009912490844727, 82.99040222167969),
+    [2] = Vector3.new(-43.40623474121094, 1, 65.87580871582031)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-16.786039352416992, 26.067922592163086, 90.74515533447266),
+    [2] = Vector3.new(-29.124752044677734, 1, 69.23722839355469)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-13.461298942565918, 26.36566162109375, 89.9416732788086),
+    [2] = Vector3.new(-13.408382415771484, 1, 71.92950439453125)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(8.904281616210938, 39.573516845703125, 95.0549545288086),
+    [2] = Vector3.new(-1.1118392944335938, 1, 77.19100952148438)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(22.618343353271484, 29.508852005004883, 84.6604232788086),
+    [2] = Vector3.new(21.89963150024414, 1, 70.11848449707031)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(33.21562576293945, 33.65748596191406, 87.59400939941406),
+    [2] = Vector3.new(37.44503402709961, 1, 70.91946411132812)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(17.297962188720703, 37.796268463134766, 90.15201568603516),
+    [2] = Vector3.new(9.312322616577148, 1, 66.65281677246094)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(37.88459014892578, 28.64865493774414, 3.678678274154663),
+    [2] = Vector3.new(37.96953201293945, 1, 9.213508605957031)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-17.870513916015625, 34.32160949707031, 18.819963455200195),
+    [2] = Vector3.new(-5.278100967407227, 1, 31.75865936279297)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(21.676029205322266, 31.06031608581543, -2.4012231826782227),
+    [2] = Vector3.new(22.94386863708496, 1, 6.152072906494141)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(1.9755209684371948, 38.56922912597656, 26.79886245727539),
+    [2] = Vector3.new(3.0752182006835938, 1, 54.934837341308594)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(36.801666259765625, 29.67664909362793, 34.72419738769531),
+    [2] = Vector3.new(44.08253479003906, 1, 42.617286682128906)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(34.75096893310547, 20.495864868164062, 53.797767639160156),
+    [2] = Vector3.new(45.65876388549805, 1, 61.92939758300781)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-7.525856971740723, 38.873722076416016, 30.26676368713379),
+    [2] = Vector3.new(10.250835418701172, 1, 28.490306854248047)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-45.9283332824707, 40.23623275756836, 6.949666976928711),
+    [2] = Vector3.new(-44.965538024902344, 1, 29.05405044555664)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-45.9283332824707, 40.23623275756836, 6.949666976928711),
+    [2] = Vector3.new(-44.965538024902344, 1, 29.05405044555664)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-88.63611602783203, 42.89552307128906, 31.149812698364258),
+    [2] = Vector3.new(-90.96980285644531, 21.415828704833984, 44.61029815673828)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-53.21641159057617, 41.82316207885742, 6.650674819946289),
+    [2] = Vector3.new(-42.115264892578125, 1, 6.4107513427734375)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-90.53604125976562, 44.32200241088867, 32.53919982910156),
+    [2] = Vector3.new(-96.07518005371094, 27, 43.92024230957031)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-28.071908950805664, 29.764503479003906, 92.12220001220703),
+    [2] = Vector3.new(-34.52017593383789, 1, 91.39625549316406)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-25.26506805419922, 45.894935607910156, 95.0274887084961),
+    [2] = Vector3.new(-44.11134338378906, 7, 83.5029067993164)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(-23.298595428466797, 46.54253387451172, 110.71742248535156),
+    [2] = Vector3.new(-44.44133758544922, 7, 99.50303649902344)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
+local args = {
+    [1] = Vector3.new(8.413655281066895, 48.0670051574707, 94.24382019042969),
+    [2] = Vector3.new(-15.063970565795898, 1, 89.69412231445312)
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ZombieRelated"):WaitForChild("AcidSpit"):FireServer(unpack(args))
